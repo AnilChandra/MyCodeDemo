@@ -17,6 +17,8 @@ namespace HelloGit
             Console.WriteLine("Additional changes for Feature1");
             Console.WriteLine("This is Feature1");
             Console.WriteLine("Changes after Push/Publish");
+            Console.WriteLine("Changes after Push/Publish");
+
         }
     }
 }
