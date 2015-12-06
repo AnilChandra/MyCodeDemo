@@ -14,6 +14,8 @@ namespace HelloGit
             //Hello Git
             Console.WriteLine("Thsi is Main Branch");
             Console.WriteLine("This is Feature1");
+            Console.WriteLine("Additional changes for Feature1");
+            Console.WriteLine("This is Feature1.1");
         }
     }
 }
